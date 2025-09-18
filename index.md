@@ -58,3 +58,10 @@ layout: default
 
 ## 六、 漫游与区域包：周边国家怎么玩？
 　　巴拿马是中美洲枢纽，**2025年
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Panama eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/panama-data-plans)
